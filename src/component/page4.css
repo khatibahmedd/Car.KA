@@ -1,0 +1,24 @@
+#page{
+    width: 100%;
+    height: 50vh;
+    background-image:  url(/src/component/photo/page3.webp);
+    background-size:cover;
+    background-position: center;
+    margin-bottom: 110px;
+    
+}
+.allpa{
+   padding-top: 100px;
+}
+h2{
+    font-size: 30px;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 30px;
+background-color: white;
+}
+#textK{
+    color: white;
+    font-size: 25px;
+    padding-top: 90px;
+}

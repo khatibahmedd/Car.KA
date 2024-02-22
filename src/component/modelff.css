@@ -1,0 +1,23 @@
+
+.con2{
+    width: 100%;
+    height:90vh;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.945);
+}
+#KHhh{
+    width:700px ; 
+    height: 100vh;
+    
+}
+.textka{
+    color: white;
+    padding-left: 20px;
+    margin-bottom: 18px;
+   padding-top: 250px;
+}
+.pw{
+    font-size: 17px;
+   width: 430px;
+ 
+}

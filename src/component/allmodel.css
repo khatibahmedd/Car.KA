@@ -1,0 +1,37 @@
+.ProductsSection2{
+    width: 90%;
+    height: 220vh;
+}
+.start1{
+  padding: 6px;
+   background-color: black;
+   color: white;
+   width: 110%;
+  
+ 
+}
+.start2{
+    padding: 5px;
+    margin-left: 100px;
+
+ }
+
+.g-4{
+    margin-left: 70px;
+}
+
+
+.dis{
+    
+ border: none;
+}
+.ca{
+    height: 200px;
+    width: 350px;
+    transition: 0.3 ease-in-out;
+   
+}
+.ca:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}

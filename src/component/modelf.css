@@ -1,0 +1,72 @@
+.ProductsSection{
+    width: 90%;
+    height: 80vh;
+}
+.start{
+    margin-top: 40px;
+   margin-left: 540px;
+}
+#btn4{
+    margin-left: 488px;
+    width: 200px;
+}
+
+
+.imm1{
+margin-left: 130px; 
+  
+}
+.imm2{
+    margin-left: 240px; 
+      
+}
+
+
+    
+.title3{
+    margin-left: 340px; 
+    font-size: 20px;
+}
+
+
+
+.title1{
+    margin-left: 220px; 
+    font-size: 20px;
+}
+.title{
+    font-size: 20px;
+    margin-left: 80px;
+}
+.hrr{
+margin-left: 50px;
+   width: 1200px;
+
+   
+}
+.products .contact{
+    width: 250px;
+    padding: 30px;
+    margin-bottom: 20px;
+    height: 350px;
+    font-size: 13px;
+}
+.products .contact img{
+    height: 200px;
+    width: 300px;
+    transition: 0.3 ease-in-out;
+    margin-top: 10px;
+
+}
+.products .contact img:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+
+}
+
+
+.products{
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+}

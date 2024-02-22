@@ -1,0 +1,19 @@
+.page22{
+    width: 100%;
+    height: 65vh;
+}
+:root{
+    
+    --fontKH:#1C1C1C;
+    --hoverKH: 581f18;
+    --colorKH:#ffffff;
+  }
+#pp{
+font-size: 30px;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.cardd{
+  border: none;
+}

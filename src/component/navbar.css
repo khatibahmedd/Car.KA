@@ -1,0 +1,75 @@
+
+
+.bg-body-tertiary{
+height: 11vh;
+
+}
+#nav{
+    
+    color: var(--fontKH);
+    background-color:var(--logoKH) ;
+    position: fixed;
+    z-index: 1000000;
+    height: 11vh;
+ 
+}
+:root{
+    
+    --fontKH:#1C1C1C;
+    --hoverKH: #333333a4;
+    --logoKH:#ffffffc0;
+}
+    
+
+.logo{
+    width: 120px;
+    height: 55px;
+    padding-left: 85px;
+    padding-top: 15px;
+}
+.logon{
+    font-size: 20px;
+    padding-left: 69px;
+    color: var(--fontKH);
+}
+.a{
+    color: var(--hoverKH);
+    font-size: 17px;   
+    padding-top: 30px;
+}
+    
+.a:hover{
+    transform: 600s;
+    color: var(--hoverKH);
+    
+}
+
+
+.n{
+    color: var(--fontKH);
+    font-size: 17px;   
+    padding-top: 30px;
+}
+    
+.n:hover{
+    transform: 600s;
+    color: var(--hoverKH);
+    
+}
+#basic-navbar-nav{
+    justify-content: space-between;
+    padding-left: 570px;
+    
+}
+#navbar .n.active{
+    color: red;
+}
+
+#t{
+    width: 50px;
+    height: 50px;
+}
+/* ################################################################################# */
+
+
+
